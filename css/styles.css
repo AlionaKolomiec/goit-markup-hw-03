@@ -292,4 +292,6 @@ button {
   letter-spacing: 0.02em;
   margin-left: auto;
   margin-right: auto;
+  text-align: start;
+  max-width: 156px;
 }
